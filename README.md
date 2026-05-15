@@ -1,9 +1,9 @@
-[README.md](https://github.com/user-attachments/files/27785530/README.md)
+[README.md](https://github.com/user-attachments/files/27785766/README.md)
 # ActuaWiki
 
 A free, single-page actuarial study reference for university students. Probability, distributions, algebra, integration, and statistics — all in one zero-install HTML file with interactive plots, full LaTeX formulas, and worked examples.
 
-**Live demo:** _(add your GitHub Pages link here)_
+**Live site:** [actuawiki.org](https://actuawiki.org)
 
 ---
 
@@ -30,23 +30,9 @@ ActuaWiki covers the core math you need for actuarial coursework and early exams
 
 ## Getting started
 
-Clone the repo and open the file in any modern browser:
+Just visit **[actuawiki.org](https://actuawiki.org)** in any modern browser. Nothing to install.
 
-```bash
-git clone https://github.com/<your-username>/actuawiki.git
-cd actuawiki
-open index.html      # macOS
-# or just double-click index.html
-```
-
-That's it — there is no build step.
-
-## Deploy to GitHub Pages
-
-1. Push the repo to GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Source**, choose your `main` branch and the `/ (root)` folder.
-4. Save — your site will be live at `https://<your-username>.github.io/actuawiki/` within a minute.
+If you'd rather run it locally, download the HTML file from this repo and double-click it — it works fully offline.
 
 ## Tech stack
 
